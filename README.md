@@ -1,1 +1,2 @@
-# know-your-symptoms
+# Interactive Self-Diagnosis Assistant
+
