@@ -1,5 +1,10 @@
 # Interactive Self-Diagnosis Assistant
 
+// NOTE // 
+The UI is still undergoing development to improve instructions for using this program.
+
+
+
 This program is designed to assist patients in diagnosing their symptoms and receive real-time feedback relating to their present symptoms.
 
 On the sidebar located by the left-hand side of the screen, there is an extensive list of possible symptoms listed in alphabetical order. Patients are then encouraged to select all NEW symptoms to help identify the root cause.
