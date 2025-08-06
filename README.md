@@ -7,6 +7,12 @@ The UI is still undergoing development to improve instructions for using this pr
 
 This program is designed to assist patients in diagnosing their symptoms and receive real-time feedback relating to their present symptoms.
 
+# Data Analysis
+
+The datasets used for this project were obtained from Kaggle (https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=symptom_precaution.csv) and cleaned through R. For those interested in seeing how this data was cleaned, processed, and analyzed, feel free to reach out. Once the data was cleaned, I built an interactive UI through the Shiny package within R.
+
+# UI
+
 On the sidebar located by the left-hand side of the screen, there is an extensive list of possible symptoms listed in alphabetical order. Patients are then encouraged to select all NEW symptoms to help identify the root cause.
 
 <img width="1437" height="773" alt="Screenshot 2025-08-06 at 1 53 53 PM" src="https://github.com/user-attachments/assets/76a0fa83-5f4f-4656-a2d6-1ea2ccbcba5e" />
